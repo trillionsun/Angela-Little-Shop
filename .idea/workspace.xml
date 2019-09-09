@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="819c1f6a-e080-4945-89e6-69da6443655f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/jquery.smartCart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="819c1f6a-e080-4945-89e6-69da6443655f" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -86,9 +82,9 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="192" />
-    <option name="y" value="52" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="8" />
+    <option name="y" value="25" />
     <option name="width" value="726" />
     <option name="height" value="829" />
   </component>
@@ -138,7 +134,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -220,20 +216,20 @@
       <workItem from="1567811316812" duration="1870000" />
       <workItem from="1567906570395" duration="3467000" />
       <workItem from="1567942866797" duration="105000" />
-      <workItem from="1567985801608" duration="7099000" />
+      <workItem from="1567985801608" duration="7321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35581000" />
+    <option name="totallyTimeSpent" value="35803000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="714" y="24" width="726" height="829" extended-state="0" />
+    <frame x="8" y="328" width="726" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88257575" visible="true" weight="0.5148936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88257575" visible="true" weight="0.1574468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Gulp" order="2" sideWeight="0.11742424" side_tool="true" visible="true" weight="0.5148936" />
+      <window_info id="Gulp" order="2" sideWeight="0.11742424" side_tool="true" visible="true" weight="0.1574468" />
       <window_info id="npm" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
